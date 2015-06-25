@@ -15,7 +15,7 @@ public class SecondActivity extends Activity {
 		getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
 				WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
-		setContentView(R.layout.activity_second);
+		setContentView(R.layout.fragment_second);
 
 	}
 

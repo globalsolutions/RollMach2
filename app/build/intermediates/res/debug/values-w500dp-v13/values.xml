@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/Asif%20Anjum/RollMach_160615/RollMach2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-w500dp/values.xml -->
+    <!-- From: file:/D:/RollMach_update_250615/RollMachRevised1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-w500dp/values.xml -->
     <eat-comment/>
     <integer name="abc_max_action_buttons">4</integer>
 </resources>

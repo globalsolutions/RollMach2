@@ -21,7 +21,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/ic_launcher"
+
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
@@ -38,10 +38,10 @@
             android:name="com.example.rollmach.SecondActivity"
             android:label="@string/title_activity_second" >
         </activity>
-        <activity
+        <!--<activity
             android:name="com.example.rollmach.WeightActivity"
             android:label="@string/title_activity_weight" >
-        </activity>
+        </activity>-->
     </application>
 
 </manifest>
